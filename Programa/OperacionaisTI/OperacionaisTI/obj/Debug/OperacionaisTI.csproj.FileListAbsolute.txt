@@ -1,0 +1,6 @@
+\\mi85\Banco de Dados - Access\Operacionais TI\Programa\OperacionaisTI\OperacionaisTI\bin\Debug\OperacionaisTI.exe
+\\mi85\Banco de Dados - Access\Operacionais TI\Programa\OperacionaisTI\OperacionaisTI\bin\Debug\OperacionaisTI.pdb
+\\mi85\Banco de Dados - Access\Operacionais TI\Programa\OperacionaisTI\OperacionaisTI\obj\Debug\OperacionaisTI.csprojAssemblyReference.cache
+\\mi85\Banco de Dados - Access\Operacionais TI\Programa\OperacionaisTI\OperacionaisTI\obj\Debug\OperacionaisTI.csproj.CoreCompileInputs.cache
+\\mi85\Banco de Dados - Access\Operacionais TI\Programa\OperacionaisTI\OperacionaisTI\obj\Debug\OperacionaisTI.exe
+\\mi85\Banco de Dados - Access\Operacionais TI\Programa\OperacionaisTI\OperacionaisTI\obj\Debug\OperacionaisTI.pdb
